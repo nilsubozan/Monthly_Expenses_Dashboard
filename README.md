@@ -1,1 +1,1 @@
-# Monthly_Expenses_Dashboard
+![Dashboard Image](assets/dashboard_img.png)
